@@ -53,14 +53,9 @@
     right: 0;
 }
 
-@-webkit-keyframes animate-positive{
-    0% { width: 0; }
-}
-@keyframes animate-positive{
-    0% { width: 0; }
-}
 
 .portfolio-title {
 
-    font-size: 200px;
+    font-size: 150px;
 }
+
