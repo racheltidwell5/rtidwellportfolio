@@ -29,29 +29,6 @@
     margin-bottom: 30px;
     overflow: visible;
 }
-.progress .progress-bar{
-    box-shadow: none;
-    position: relative;
-    -webkit-animation: animate-positive 2s;
-    animation: animate-positive 2s;
-}
-.progress .progress-bar:after{
-    content: "";
-    display: block;
-    border: 15px solid transparent;
-    border-bottom: 21px solid transparent;
-    position: absolute;
-    top: -26px;
-    right: -12px;
-}
-.progress .progress-value{
-    font-size: 15px;
-    font-weight: bold;
-    color: #000;
-    position: absolute;
-    top: -40px;
-    right: 0;
-}
 
 
 .portfolio-title {
